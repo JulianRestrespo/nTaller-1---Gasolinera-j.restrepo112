@@ -1,0 +1,14 @@
+tipo:Corriente:15000:3500.0
+tipo:Corriente low cost:9000:3992.0
+tipo:Gabriel Marquez:1000:200.0
+tipo:Diesel:11000:2000.0
+tipo:Premium:22000:1500.0
+surtidor:Julian Restrepo:Corriente:0.0:Corriente low cost:0.0:Gabriel Marquez:0.0:Diesel:0.0:Premium:0.0
+surtidor:Julian Restrepo:Corriente:0.0:Corriente low cost:0.0:Gabriel Marquez:0.0:Diesel:0.0:Premium:0.0
+surtidor:Steven Vargas:Corriente:0.0:Corriente low cost:8.0:Gabriel Marquez:0.0:Diesel:0.0:Premium:0.0
+surtidor:Eduardo Jimenez:Corriente:0.0:Corriente low cost:0.0:Gabriel Marquez:0.0:Diesel:0.0:Premium:0.0
+empleado:Steven Vargas:72000
+empleado:Eduardo Jimenez:0
+empleado:Jaime Castillo:0
+empleado:Julian Restrepo:0
+empleado:Rosa Gonzales:0
